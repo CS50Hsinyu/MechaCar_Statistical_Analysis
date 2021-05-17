@@ -8,7 +8,7 @@ A1:   Please see screen shot of summary output below, the value of Pr(>|t|) of v
 
 **Q2: Is the slope of the linear model considered to be zero? Why or why not?**
 
-A2:   The p-value is 5.35 <sup>-10<sup>, which is much smaller than significant level of 0.05%. Therefore, we can state that the slope of the linear model is not zero.
+A2:   The p-value is 5.35 <sup>-10, which is much smaller than significant level of 0.05%. Therefore, we can state that the slope of the linear model is not zero.
 
 *Q3: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
